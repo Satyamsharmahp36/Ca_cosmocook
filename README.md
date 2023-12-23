@@ -6,6 +6,8 @@ Welcome to COSMOCOOK, your culinary companion on a flavor odyssey! Every time yo
 
 # Features
 
+
+
 # 1. Random Recipe on Refresh
 
 
@@ -52,9 +54,12 @@ The *MealDB API* for fetching recipe data
 
 Canvas for the background animation
 
+# Reponsiveness
+
+This site is responsive for every device , so we can use it anywhere .
 
 # Demo
-Visit [COSMOCOOK](http://127.0.0.1:5500/index.html)  and experience the culinary journey with random recipes and personalized searches.
+Visit [COSMOCOOK]([http://127.0.0.1:5500/index.html](https://satyamsharmahp36.github.io/Ca_cosmocook/))  and experience the culinary journey with random recipes and personalized searches.
 
 
 # Credits
